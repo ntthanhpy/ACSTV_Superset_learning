@@ -1,0 +1,9 @@
+Bộ tài liệu nên đọc
+User Guide: tổng quan dành cho Analyst và business user. ![Link intro](https://superset.apache.org/user-docs/6.0.0/intro/?utm_source=chatgpt.com)
+Quickstart: chạy Superset bằng Docker Compose.
+Creating Your First Dashboard: quy trình database → dataset → chart → dashboard.
+Connecting to Databases: driver và SQLAlchemy connection.
+ClickHouse Connector: driver và connection URI.
+Security: role, permission và Row-Level Security.
+Alerts and Reports: cấu hình email, Slack và Celery.
+REST API: tự động hóa dashboard, dataset, role và RLS; Swagger có thể được truy cập tại /swagger/v1 trên Superset instance.
